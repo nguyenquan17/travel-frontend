@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-# Nhom-4
-Nhom 4
-=======
-<<<<<<< HEAD
-# Nhom-4
-Nhom 4
-=======
-<<<<<<< HEAD
-# Nhom-4
-Nhom 4
 =======
 # AppStack - ReactJS Admin & Dashboard Template
 
